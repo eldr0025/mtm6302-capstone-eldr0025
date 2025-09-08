@@ -1,1 +1,3 @@
-# mtm6302-capstone-eldr0025
+Ryan Eldred-Neville
+041150088
+Capstone Project - Part 1 
