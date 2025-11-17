@@ -101,6 +101,17 @@ h2 {
     margin-left: 10px;
 }
 
+#date-picker {
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+
+.header {
+    z-index: 1;
+    position: relative;
+}
+
 /* Desktop Styling */
 
 @media screen and (min-width: 767px) {
